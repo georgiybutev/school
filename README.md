@@ -1,4 +1,4 @@
-# college
+# school
 
 This is the first dynamic web site I have developer using PHP and MySQL.
 
